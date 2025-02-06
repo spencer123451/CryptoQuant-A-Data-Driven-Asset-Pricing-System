@@ -1,6 +1,7 @@
 # Crypto
 
 Crypto Price Prediction with LSTM & Random Forest
+
 This project applies machine learning and deep learning techniques to predict cryptocurrency price movements. It integrates technical indicators, Random Forest classification, and an LSTM model to analyze historical price data and forecast future trends.
 
 Features:
